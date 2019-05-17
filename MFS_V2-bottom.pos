@@ -1,0 +1,12 @@
+### Module positions - created on 06.03.2019 15:03:44 ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                                           PosX       PosY       Rot  Side
+C1        100nF_10V      C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -85.9000  -108.7000   45.0000  bottom
+C2        10uF_15V       C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -104.6000   -88.7000  270.0000  bottom
+C3        100uF_10V      C_1210_3225Metric_Pad1.42x2.65mm_HandSolder   -94.7000   -92.8000   90.0000  bottom
+J2        MicroMatch_6P  ConnectorMicromatch-6                        -108.0000  -109.0000  315.0000  bottom
+U1        ATtiny85-20SU  SOIJ-8_5.3x5.3mm_P1.27mm                      -90.5000  -109.4000  225.0000  bottom
+U4        LM1117-5.0     SOT-223-3_TabPin2                            -100.0000   -91.0000  270.0000  bottom
+## End
